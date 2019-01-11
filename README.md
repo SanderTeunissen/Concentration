@@ -3,7 +3,7 @@ Concentration was een van de opdrachten van de course Develop an iOS Application
 
 -----
 
-Concentration was one of the assignments of the course Development of an iOS application of the minor Mobile Application Development at the HAN University of Applied Sciences, edition fall 2018. The assignment comes from the [course] (https://itunes.apple.com/nl/podcast/developing-ios-11-apps-with-swift/id1315130780?mt=2) `Developing iOS 11 Apps with Swift` by Paul Hegarty.
+Concentration was one of the assignments of the course Development of an iOS application of the minor Mobile Application Development at the HAN University of Applied Sciences, edition fall 2018. The assignment comes from the [course](https://itunes.apple.com/nl/podcast/developing-ios-11-apps-with-swift/id1315130780?mt=2) `Developing iOS 11 Apps with Swift` by Paul Hegarty.
 
 ## Requirements
 
